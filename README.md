@@ -22,20 +22,18 @@ Project Link : https://monumental-sable-3e4b1d.netlify.app/
 ### Frontend:
 - HTML5, CSS3, JavaScript
 - Bootstrap / Tailwind CSS
-- React.js / Angular / Vue.js *(choose one)*
 
 ### Backend:
-- Node.js + Express.js / Django / Laravel / PHP *(choose one)*
+- Node.js + Express.js / Django  / PHP 
 
 ### Database:
-- MongoDB / MySQL / PostgreSQL *(choose one)*
+- MongoDB
 
 ### Others:
 - JWT for Authentication
 - RESTful APIs
-- Stripe / Razorpay for Payments *(if used)*
+- Stripe / Razorpay for Payments 
 
----
 
 ## 🚀 Installation
 
